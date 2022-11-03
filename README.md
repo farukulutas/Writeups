@@ -1,4 +1,4 @@
 # Writeups
-CTF writeups
+## CTF writeups
 
-HackTheBox Boo CTF - Web Writeups
+* HackTheBox Boo CTF - Web Writeups
